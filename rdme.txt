@@ -1,0 +1,32 @@
+-----------MUST HAVE----------------
+
+
+
+
+
+
+
+-----------SHOULD HAVE----------------
+
+
+no original elements from the tutorial (inc sprites)
+
+
+
+
+-----------COULD HAVE----------------
+
+
+
+
+
+-----------WONT HAVE----------------
+
+
+
+
+
+
+
+
+
