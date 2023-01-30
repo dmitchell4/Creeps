@@ -1,22 +1,30 @@
 -----------MUST HAVE----------------
 
-
-
-
-
+player and enemy fire
+big boss type
+multiple enemies
+scrolling background
+at least one player upgrade
+at least two weapons/upgrades
+at least two levels
+HUD - current weapon, boss hp
 
 
 -----------SHOULD HAVE----------------
 
-
 no original elements from the tutorial (inc sprites)
-
+at least 5 enemies
+at least two bosses
+HUD - health bar, score/time
 
 
 
 -----------COULD HAVE----------------
 
-
+dialogue/story
+rotating scrolling (vertical to horizontal etc)
+dynamic zoom for make interesting levels
+fancy bullet hell enemies
 
 
 
